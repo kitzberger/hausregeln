@@ -1,69 +1,85 @@
 # Pablo
 
-Deck:
+## Deck
 
-2-Ass + 1 Joker
+Verwendet wird ein Poker-Deck mit den Karten:
 
-Kartenwerte:
+* 4 Farben: 2 bis Ass
+* 1 Joker
 
-2 - 10 Zahlenwert, Junge 11, Dame 12, König 13. Herz-König 0, Ass 1, Joker -1
+Dabei gelten folgenden Kartenwerten:
 
+* Ass: 1
+* 2-10: Zahlenwert
+* Buben: 11
+* Dame: 12
+* König: 13
+* Herz-König: 0
+* Joker: -1
 
+## Ziel des Spiels
 
-Gespielt wird mit einer Hand.
+Wer zuerst 100 Punkte hat, verliert. Wer die wenigsten hat, gewinnt.
 
-Jeder erhält am Anfang 4 Karten die verdeckt vor einem ausgelegt werden, 2 davon darf man sich anschauen. Die Karten dürfen ihre Position nicht mehr ändern.
+## Ablauf
 
-Die restlichen Karten werden als verdeckter Stapel in die mitte gelegt.
+Gespielt wird mit nur einer Hand. Die Farben spielen keine Rolle bei Pablo, es geht nur nach Zahlen und Bildern.
 
+Jeder erhält am Anfang 4 Karten, die verdeckt vor einem ausgelegt werden, 2 davon darf man sich anschauen. Die Karten dürfen ihre Position nicht mehr ohne Weiteres ändern.
 
+Die restlichen Karten werden als verdeckter Nachziehstapel in die Mitte gelegt.
 
-Wer zuerst 100 Punkte hat, verliert, wer die wenigsten hat gewinnt.
+Sobald alle bereit sind, wird mit der obersten Karte des Nachziehstapel der Ablagestapel begonnen. (Auf diese Karte kann bereits abgeworfen werden!)
 
+Danach beginnt der erste Spieler.
 
+Wer dran ist, kann
 
-Eine Runde ist zu Ende wenn, jemand keine Karten mehr hat oder Pablo angesagt wurde und der Ansagende Spieler wieder dran war.
+* entweder die verdeckte Karte des Nachziehstapels
+* oder die oberste Karte des Ablagestapels
 
-Pablo:
+nehmen und diese Karte dann
 
-Pablo kann NACH einem Zug von jemandem angesagt werden. Dann wird noch so lange gespielt, bis diese person noch einmal dran war (MUSS auch noch eine Karte ziehen!). Hat der Spieler dann die wenigsten Punkte (nach Kartenwerten) in seinen Karten hat er es geschafft und bekommt -20 Punkte für die Runde. Schafft er es nicht (auch Gleichstend) erhält er +25.
+* entweder direkt auf den Ablagestapel ausgespielt
+* oder mit einer der eigenen Karten getauscht werden, wobei die ausgetauschte Karte dann auf den Ablagestapel kommt.
 
-Während Pablo angesagt ist, kann auch ein weiterer Pablo ansagen, es kann dann nur einer schaffen. Ende ist trotzdem wieder wenn der der es zuerst angesagt hat nochmal dran war.
+**Achtung**: damit das etwaige Abwerfen auf die ausgespielte Karte möglichst fair ablaufen kann, ist beim Ausspielen darauf zu achten, dass alle Mitspieler die ausgespielte Karte gleichzeitig sehen können.
 
-Es kann auch sein, dass jemand das Spiel beendet während Pablo angesagt ist, indem er alle seine Karten los wird. In diesem Fall verliert der Ansagende dann sein Pablo.
+## Karten Sondereffekte
 
+Der Karteneffekt zählt immer nur für die ausgespielte Karte, nicht für darauf geworfene Karten.
 
+* 7: eine eigene Karte anschauen
+* 8: eine fremde Karte anschauen
+* 9: Spieler **muss** eine seiner Karten mit einer eines Mitspielers tauschen
 
-Karten Sondereffekte:
+## Karten werfen
 
-Der Karteneffekt zählt immer nur für die erste Karte, die in einem Zug gespielt wird.
+Nachdem eine Karte auf den Ablagestapel gespielt wurde, kann **jeder Spieler** eine weitere Karte der selben Art daraufwerfen. So wird man Karten los. Hier zählt Geschwindigkeit!
 
-7 - eigene Karte anschauen
+Kennt man eine Karte eines Mitspielers und diese würde gerade auf den Ablagestapel passen, kann man diese Karte schnappen und abwerfen:
 
-8 - fremde Karte anschauen
+* War es richtig, kann man dem Mitspieler dann verdeckt eine seiner eigenen Karten dafür hinschieben.
+* War es falsch, muss man selbst eine Strafkarte ziehen.
+* Will man selbst eine Karte falsch abwerfen, muss man diese zurücknehmen **und** eine Strafkarte ziehen.
 
-9 - Spieler MUSS eine seiner Karten mit einer eines Mitspielers tauschen
+## Ende einer Runde
 
+Eine Runde ist zu Ende, wenn
 
+* jemand keine Karten mehr hat **oder**
+* "Pablo" angesagt wurde und der ansagende Spieler selbst noch ein letztes Mal dran war.
 
-Andere Regeln:
+Pablo kann **nach** einem Zug von jemandem angesagt werden. Dann wird noch so lange gespielt, bis diese Person noch einmal dran war und nochmal gespielt hat! Hat der Spieler dann die wenigsten Punkte (nach Kartenwerten) in seinen vor sich liegenden Karten, hat er es geschafft und bekommt **-20 Punkte** für die Runde. Schafft er es nicht (auch bei Gleichstand!) erhält er **+25**.
 
-Wenn man dran ist kann die verdeckte Karte des Nachziehstapels genommen werden, ODER die oberste Karte des Ablagestapels. Diese kann dann entweder direkt auf den Ablagestapel abgelegtwerden, oder mit einer der eigenen Karten getauscht werden. Die ausgetauschte kommt dann auf den Ablagestapel.
+Wenn Pablo angesagt ist, können auch weitere Mitspieler noch Pablo ansagen. Gewinnen kann "Pablo" aber nur einer. Runden-Ende ist trotzdem wieder, wenn derjenige, der es zuerst angesagt hat, nochmal dran war.
 
-Nachdem eine Karte durch den Zug auf den Ablagestapel kommt, kann EINE weitere der selben Art daraufgelegt werden. (So wird man Karten los) Hier zählt Geschwindigkeit.
+Es kann auch sein, dass jemand das Spiel beendet, während Pablo angesagt ist, indem er alle seine Karten los wird. In diesem Fall verliert der Ansagende dann sein Pablo. Auch wenn er weniger als 0 Punkte gehabt hätte.
 
-Die Farben spielen keine Rolle bei Pablo, es geht nur nach Zahlen und Bildern.
+Alle übrigen Spielen bekommen den Wert ihrer Karten positiv gutgeschrieben.
 
-Wenn man eine Karte eines Mitspielers kennt und sie gerade auf den Ablagestapel passt, kann man diese Karte ablegen. War es richtig, kann man dem Mitspieler dann verdeckt eine seiner eigenen Karten dafür hinschieben. War es falsch muss man eine Strafkarte ziehen.
+## Zusatzregeln und Variationen für Fortgeschrittene
 
-Will man eine falsche Karte ablegen, muss man sie zurücknehmen und eine Strafkarte ziehen.
-
-
-
-Zusatzregeln und Variationen für Fortgeschrittene:
-
-Wer 42 Punkte erreich verliert sofort.
-
-Wer -69 Punkte erreicht gewinnt sofort.
-
-2 Joker ins Deck
+* Wer exakt 42 Punkte erreicht, verliert sofort.
+* Wer exakt -69 Punkte erreicht gewinnt sofort.
+* 2 statt 1 Joker ins Deck mischen.

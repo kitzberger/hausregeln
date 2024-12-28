@@ -40,28 +40,31 @@ Wer dran ist, kann
 
 nehmen und diese Karte dann
 
-* entweder direkt auf den Ablagestapel ausgespielt
-* oder mit einer der eigenen Karten getauscht werden, wobei die ausgetauschte Karte dann auf den Ablagestapel kommt.
+* entweder mit einer der eigenen Karten getauscht werden (wobei die ausgetauschte Karte dann auf den Ablagestapel kommt)
+* oder direkt auf den Ablagestapel ausgespielt (nur falls es die verdeckte Karte vom Nachziehstapel war!)
 
 **Achtung**: damit das etwaige Abwerfen auf die ausgespielte Karte möglichst fair ablaufen kann, ist beim Ausspielen darauf zu achten, dass alle Mitspieler die ausgespielte Karte gleichzeitig sehen können.
 
 ## Karten Sondereffekte
 
-Der Karteneffekt zählt immer nur für die ausgespielte Karte, nicht für darauf geworfene Karten.
+Der Karteneffekt zählt immer nur für die ausgespielte Karte, nicht für geworfene Karten.
 
 * 7: eine eigene Karte anschauen
 * 8: eine fremde Karte anschauen
-* 9: Spieler **muss** eine seiner Karten mit einer eines Mitspielers tauschen
+* 9: eine eigene Karte mit einer eines Mitspielers tauschen (Pflicht!)
 
 ## Karten werfen
 
 Nachdem eine Karte auf den Ablagestapel gespielt wurde, kann **jeder Spieler** eine weitere Karte der selben Art daraufwerfen. So wird man Karten los. Hier zählt Geschwindigkeit!
 
+Versuchen das mehrere Spieler, darf nur die Karte, die zuerst liegt, liegen bleiben. Spätere Karten müssen zurückgenommen werden.
+
 Kennt man eine Karte eines Mitspielers und diese würde gerade auf den Ablagestapel passen, kann man diese Karte schnappen und abwerfen:
 
-* War es richtig, kann man dem Mitspieler dann verdeckt eine seiner eigenen Karten dafür hinschieben.
+* War es richtig, kann man dem Mitspieler dann verdeckt eine seiner eigenen Karten dafür rüberschieben.
 * War es falsch, muss man selbst eine Strafkarte ziehen.
-* Will man selbst eine Karte falsch abwerfen, muss man diese zurücknehmen **und** eine Strafkarte ziehen.
+
+Eine falsch abgeworfene eigene Karte muss man zurücknehmen **und** eine Strafkarte ziehen.
 
 ## Ende einer Runde
 

@@ -38,13 +38,21 @@ Fehlfarben:
 * Abheben lassen
 * Jedem 12 Karten austeilen
 * Reihum fragen, ob man gesund ist (oder eben einen Vorbehalt anmelden möchte)
+  * Reihenfolge Vorbehalte: Pflichtsolo, Lustsolo, Schmeißen, Armut, Hochzeit
+  * Reihenfolge Solos: Farbsolo, Damen-Solo, Buben-Solo, Fleischloser
 * Spielen
 
-## Vorbehalte
+## Normales Spiel
 
-Reihenfolge: Pflichtsolo, Lustsolo, Schmeißen, Armut, Hochzeit
+* Diejenigen, die die Kreuz-Damen besitzen, spielen zusammen ("Re-Partei")
+* Die anderen anderen sind die Kontra-Partei
+* Bis zur 1. Karte des 2. Stichs kann Re/Kontra angesagt werden.
+* Bis zur 1. Karte des 3./4./5./6. Stichs dann "Keine 9", "Keine 6", "Keine 3", Schwarz
+* Es herrscht Bedienzwang
 
 ## Wertung
+
+Beide Gewinner bekommen Punkte gutgeschrieben:
 
 * 1 Punkt für "gewonnen"
 * 1 Punkt für "gegen die Alten"
@@ -53,6 +61,10 @@ Reihenfolge: Pflichtsolo, Lustsolo, Schmeißen, Armut, Hochzeit
 * Sonderpunkte
 
 Hinweis: normalerweise braucht die Re-Partei 121 Punkte zum Sieg. Bei angesagtem Kontra (ohne angesagtes Re) genügen ihr 120. Wird beides angesagt, brauchen beide Parteien 121 Punkte zum Sieg.
+
+### Wert Solo
+
+Wie sonst auch, nur dass die Punkte nur der Solist bekommt und dass aber dann mal 3.
 
 ## Sonderregeln
 
@@ -64,7 +76,8 @@ Hinweis: normalerweise braucht die Re-Partei 121 Punkte zum Sieg. Bei angesagtem
 * Schwein (über Dullen, einer der beiden Füchse, beide muss man besitzen)
 * Zweite Dulle sticht erste
 * Erste Dulle sticht zweite im letzten Stich
-* Stille Hochzeit
+* Hochzeit: wer beide Kreuz-Damen hat, darf geheiratet werden: derjenige, der den ersten Farbstich macht, ist der Partner.
+* Stille Hochzeit: statt Hochzeit anzusagen, kann man auch heimlich allein gegen die anderen 3 spielen (was sich üblicherweise erst gegen Ende der Runde offenbart)
 * Armut (3+1)
   * max. 3 Trumpf und 1 Fuchs. Alle Trümpfe müssen rübergegeben werden.
   * es darf Trumpf zurückgegeben werden.
@@ -72,6 +85,5 @@ Hinweis: normalerweise braucht die Re-Partei 121 Punkte zum Sieg. Bei angesagtem
   * bei Solos wird zwischen Pflicht- und Lustsolos unterschieden
   * Einmal am Spielabend **muss** jeder Spieler ein Pflichtsolo spielen und kommt dabei raus.
   * Ab dem nächsten Solo wird vom Lustsolo gesprochen, wobei ganz regulär die Person nach dem Ausgeber rauskommt.
-* Reihenfolge Solos: Farbsolo, Damen-Solo, Buben-Solo, Fleischloser
 * Genschern (beide Karo-Könige oder Karo-Damen)
 * Wissingern (beide Karo-Neuner)

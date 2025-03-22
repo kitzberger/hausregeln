@@ -89,5 +89,5 @@ Wie sonst auch, nur dass die Punkte nur der Solist bekommt und dass aber dann ma
   * Einmal am Spielabend **muss** jeder Spieler ein Pflichtsolo spielen und kommt dabei raus.
   * Ab dem nächsten Solo wird vom Lustsolo gesprochen, wobei ganz regulär die Person nach dem Ausgeber rauskommt.
 * Bock: nach verlorenem Kontra oder Nullspiel werden 4 doppelt gewertete Runden gespielt
-* Genschern (beide Karo-Könige oder Karo-Damen): wenn nix angesagt wurde, kann die Person mit den beiden Karo-Königen durch Ausspielen der ersten davon den Partner wechseln. Bereits gemachte Sonderpunkte verfallen.
-* Wissingern (beide Karo-Neuner)
+* Genschern (beide Karo-Damen): wenn nix angesagt wurde, kann die Person mit den beiden Karo-Damen durch Ausspielen der ersten davon den Partner wechseln. Bereits gemachte Sonderpunkte verfallen.
+* Wissingern (beide Karo-Könige): die Person mit den beiden Karo-Königen kann durch Ausspielen des ersten davon spontan ein Solo verkünden.

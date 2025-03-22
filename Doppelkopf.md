@@ -76,7 +76,10 @@ Wie sonst auch, nur dass die Punkte nur der Solist bekommt und dass aber dann ma
 * Schwein (über Dullen, einer der beiden Füchse, beide muss man besitzen)
 * Zweite Dulle sticht erste
 * Erste Dulle sticht zweite im letzten Stich
-* Hochzeit: wer beide Kreuz-Damen hat, darf geheiratet werden: derjenige, der den ersten Farbstich macht, ist der Partner.
+* Hochzeit:
+  * wer beide Kreuz-Damen hat, darf geheiratet werden.
+  * derjenige andere, der den ersten Stich macht, ist der Partner.
+  * wird innerhalb der ersten 3 Stiche kein Partner gefunden, spielt man allein.
 * Stille Hochzeit: statt Hochzeit anzusagen, kann man auch heimlich allein gegen die anderen 3 spielen (was sich üblicherweise erst gegen Ende der Runde offenbart)
 * Armut (3+1)
   * max. 3 Trumpf und 1 Fuchs. Alle Trümpfe müssen rübergegeben werden.
@@ -85,5 +88,6 @@ Wie sonst auch, nur dass die Punkte nur der Solist bekommt und dass aber dann ma
   * bei Solos wird zwischen Pflicht- und Lustsolos unterschieden
   * Einmal am Spielabend **muss** jeder Spieler ein Pflichtsolo spielen und kommt dabei raus.
   * Ab dem nächsten Solo wird vom Lustsolo gesprochen, wobei ganz regulär die Person nach dem Ausgeber rauskommt.
-* Genschern (beide Karo-Könige oder Karo-Damen)
+* Bock: nach verlorenem Kontra oder Nullspiel werden 4 doppelt gewertete Runden gespielt
+* Genschern (beide Karo-Könige oder Karo-Damen): wenn nix angesagt wurde, kann die Person mit den beiden Karo-Königen durch Ausspielen der ersten davon den Partner wechseln. Bereits gemachte Sonderpunkte verfallen.
 * Wissingern (beide Karo-Neuner)

@@ -14,7 +14,7 @@ Wie Mau-Mau, aber mit zweiter Ebene: Hermann-Hermann.
 
 Jede Dame triggert den Hermann-Hermann-Modus. Eine weitere Dame beendet ihn.
 
-In Hermann-Hermann-Modus:
+Im Hermann-Hermann-Modus:
 
 * muss "Hermann" bzw. "Hermann-Hermann" statt "Mau" und "Mau-Mau" gesagt werden,
 * gelten die Mau-Mau Ablageregeln nicht,

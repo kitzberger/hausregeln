@@ -29,4 +29,4 @@ Das 10er-Klatschen darf natürlich auch angetäuscht werden. Der letzte, den man
 
 ## Spezialregel Mau-Mau-Modus
 
-Im Mau-Mau-Modus darf man Karten einwerfen, falls man die gleiche hat. Dies gilt nicht für den Hermann-Hermann-Modus, weil dort ja die Ablageregel rot/schwarz gilt.
+Im Mau-Mau-Modus darf man Karten einwerfen, falls man die gleiche hat. Danach ist der Spieler links des Reinwerfers dran. Dies gilt nicht für den Hermann-Hermann-Modus, weil dort ja die Ablageregel rot/schwarz gilt.

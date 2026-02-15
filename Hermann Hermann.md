@@ -25,7 +25,7 @@ Im Hermann-Hermann-Modus:
 
 Bei jeglichem Regelverstoß muss eine Karte gezogen werden. So kann auch ein eigentlich bereits "fertiger" Spieler wieder ins Spiel kommen.
 
-Das 10er-Klatschen darf natürlich auch angetäuscht werden. Den letzten den man damit hinters Licht führt, der muss nehmen. Falls niemand so doof ist, muss man selbst nehmen.
+Das 10er-Klatschen darf natürlich auch angetäuscht werden. Der letzte, den man damit hinters Licht führt, muss nehmen. Falls niemand so doof ist, muss man selbst nehmen.
 
 ## Spezialregel Mau-Mau-Modus
 
